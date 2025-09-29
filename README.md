@@ -1,9 +1,3 @@
-# Amazon-review-analaysis-using-Microsoft-Azure
-
-Got it 👍 — here’s a **short and clean `README.md`** that will look professional but won’t overwhelm your repo:
-
----
-
 # Amazon Review Analysis using Microsoft Azure
 
 This project demonstrates how to build a **scalable big data pipeline** on Microsoft Azure using the **Amazon Reviews 2023 dataset**.
